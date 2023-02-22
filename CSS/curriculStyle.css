@@ -1,0 +1,62 @@
+
+
+body{
+  background-image: url("https://png.pngtree.com/background/20210710/original/pngtree-business-resume-background-material-picture-image_999584.jpg");
+  
+}
+
+header{
+  margin-left: 680px;
+}
+.imagYnom{
+  margin-left: 270px ;
+  margin-top: 200px;
+    display: inline-flex;
+    background-color: lightgoldenrodyellow;
+    color: darkcyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
+
+#exp{
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  display:none ;
+}
+
+#hab{
+  font-size: larger;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: chocolate;
+  }
+
+#habilidades{
+    display: none;
+  }
+.h1{
+  color: coral;
+  background-color: floralwhite;
+}
+
+.nombre{
+  padding: 12px;
+}
+section, aside, article {
+
+display: incline-block;
+  padding-left: 125px;
+  padding-right: 185px;
+  font-size: large;
+  text-align: justify;
+}
+
+.espacio{
+  height: 600px;
+}
+
+footer{
+  border-style: groove;
+  background-color: lightyellow;
+  
+}
